@@ -35,4 +35,4 @@ yarn-error.log*
 .vercel
 
 # marvel api
-consts.js
+.env*.local

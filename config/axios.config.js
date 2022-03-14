@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { ts } from './consts';
+import { ts } from './consts'
 import { publicKey } from './consts';
 import { privateKey } from './consts';
 const md5 = require('md5');
